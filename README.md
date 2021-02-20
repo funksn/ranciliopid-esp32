@@ -1,7 +1,7 @@
 # Rancilio PID meets Clevercoffee
 
 ## Version
-MASTER VERSION
+MASTER VERSION - ESP 32 Portierung
 Version 2.6.2  (01.02.2021) ADD new Template for the Display
 
 ## Hinweise
